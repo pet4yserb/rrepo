@@ -23,3 +23,6 @@ Collection of installers, utilities, and configs for Windows system hardening, m
 |------|-------------|--------|
 | `Fail2Ban4Win-1.4.1.zip` | Windows port of Fail2Ban — monitors logs and blocks abusive IPs via Windows Firewall. | [Lenz-Online/Fail2Ban4Win](https://github.com/Lenz-Online/Fail2Ban4Win) |
 | `coreruleset-4.25.0.zip` | OWASP Core Rule Set v4.25.0 — generic attack detection rules for ModSecurity-compatible WAFs. | [coreruleset/coreruleset](https://github.com/coreruleset/coreruleset) |
+
+
+Thanks to the Stanford guys, DePaul owes you one
